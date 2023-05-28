@@ -1,0 +1,9 @@
+name: MyDeathControl
+version: '${version}'
+main: com.helloyiyu.mydeathcontrol.MyDeathControl
+api-version: 1.19
+prefix: MyDeathControl
+load: STARTUP
+authors: [ HelloYiYu ]
+description: MyDeathControl
+website: www.helloyiyu.com
